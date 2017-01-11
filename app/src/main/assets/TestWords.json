@@ -1,0 +1,3620 @@
+[
+	{
+		"wordid" : 392,
+		"lemma" : "aardvark",
+		"definition" : "nocturnal burrowing mammal of the grasslands of Africa that feeds on termites, sole extant representative of the order Tubulidentata",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 393,
+		"lemma" : "aardwolf",
+		"definition" : "striped hyena of southeast Africa that feeds chiefly on insects",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 405,
+		"lemma" : "ab",
+		"definition" : "the muscles of the abdomen",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 407,
+		"lemma" : "aba",
+		"definition" : "a fabric woven from goat hair and camel hair",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 407,
+		"lemma" : "aba",
+		"definition" : "a loose sleeveless outer garment made from aba cloth, worn by Arabs",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 409,
+		"lemma" : "abaca",
+		"definition" : "Philippine banana tree having leafstalks that yield Manila hemp used for rope and paper etc",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 409,
+		"lemma" : "abaca",
+		"definition" : "a kind of hemp obtained from the abaca plant in the Philippines",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 410,
+		"lemma" : "abacinate",
+		"definition" : "blind by holding a red-hot metal plate before someone's eyes",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 411,
+		"lemma" : "aback",
+		"definition" : "by surprise",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 411,
+		"lemma" : "aback",
+		"definition" : "having the wind against the forward side of the sails",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 412,
+		"lemma" : "abactinal",
+		"definition" : "(of radiate animals) located on the surface or end opposite to that on which the mouth is situated",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 413,
+		"lemma" : "abacus",
+		"definition" : "a calculator that performs arithmetic functions by manually sliding counters on rods or in grooves",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 413,
+		"lemma" : "abacus",
+		"definition" : "a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 415,
+		"lemma" : "abaft",
+		"definition" : "at or near or toward the stern of a ship or tail of an airplane",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 416,
+		"lemma" : "abalone",
+		"definition" : "any of various large edible marine gastropods of the genus Haliotis having an ear-shaped shell with pearly interior",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 417,
+		"lemma" : "abamp",
+		"definition" : "a unit of current equal to 10 amperes",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 418,
+		"lemma" : "abampere",
+		"definition" : "a unit of current equal to 10 amperes",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 419,
+		"lemma" : "abandon",
+		"definition" : "the trait of lacking restraint or control, reckless freedom from inhibition or worry",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 419,
+		"lemma" : "abandon",
+		"definition" : "a feeling of extreme emotional intensity",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 419,
+		"lemma" : "abandon",
+		"definition" : "stop maintaining or insisting on, of ideas or claims",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 419,
+		"lemma" : "abandon",
+		"definition" : "leave someone who needs or counts on you, leave in the lurch",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 419,
+		"lemma" : "abandon",
+		"definition" : "leave behind empty, move out of",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 419,
+		"lemma" : "abandon",
+		"definition" : "give up with the intent of never claiming again",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 419,
+		"lemma" : "abandon",
+		"definition" : "forsake, leave behind",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 420,
+		"lemma" : "abandoned",
+		"definition" : "forsaken by owner or inhabitants",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 420,
+		"lemma" : "abandoned",
+		"definition" : "unrestrained and uninhibited",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 424,
+		"lemma" : "abandonment",
+		"definition" : "withdrawing support or help despite allegiance or responsibility",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 424,
+		"lemma" : "abandonment",
+		"definition" : "the voluntary surrender of property (or a right to property) without attempting to reclaim it or give it away",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 424,
+		"lemma" : "abandonment",
+		"definition" : "the act of giving something up",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 425,
+		"lemma" : "abarticulation",
+		"definition" : "dislocation of a joint",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 426,
+		"lemma" : "abase",
+		"definition" : "cause to feel shame, hurt the pride of",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 427,
+		"lemma" : "abasement",
+		"definition" : "depriving one of self-esteem",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 427,
+		"lemma" : "abasement",
+		"definition" : "a low or downcast state",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 428,
+		"lemma" : "abash",
+		"definition" : "cause to be embarrassed, cause to feel self-conscious",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 429,
+		"lemma" : "abashed",
+		"definition" : "feeling or caused to feel ill at ease or self-conscious or ashamed",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 430,
+		"lemma" : "abashment",
+		"definition" : "feeling embarrassed due to modesty",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 431,
+		"lemma" : "abasia",
+		"definition" : "inability to walk",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 433,
+		"lemma" : "abasic",
+		"definition" : "of or relating to abasia (inability to walk)",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 434,
+		"lemma" : "abatable",
+		"definition" : "capable of being abated",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 436,
+		"lemma" : "abate",
+		"definition" : "become less in amount or intensity",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 436,
+		"lemma" : "abate",
+		"definition" : "make less active or intense",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 437,
+		"lemma" : "abatement",
+		"definition" : "the act of abating",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 437,
+		"lemma" : "abatement",
+		"definition" : "an interruption in the intensity or amount of something",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 439,
+		"lemma" : "abatic",
+		"definition" : "of or relating to abasia (inability to walk)",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 440,
+		"lemma" : "abatis",
+		"definition" : "a line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined) pointed toward the enemy",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 441,
+		"lemma" : "abator",
+		"definition" : "a person who abates a nuisance",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 442,
+		"lemma" : "abattis",
+		"definition" : "a line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined) pointed toward the enemy",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 443,
+		"lemma" : "abattoir",
+		"definition" : "a building where animals are butchered",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 444,
+		"lemma" : "abaxial",
+		"definition" : "facing away from the axis of an organ or organism",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 445,
+		"lemma" : "abaxially",
+		"definition" : "in an abaxial manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 446,
+		"lemma" : "abaya",
+		"definition" : "(Arabic) a loose black robe from head to toe, traditionally worn by Muslim women",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 448,
+		"lemma" : "abbacy",
+		"definition" : "the jurisdiction or office of an abbot",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 449,
+		"lemma" : "abbatial",
+		"definition" : "of or having to do with or belonging to an abbey or abbot, or abbess",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 450,
+		"lemma" : "abbe",
+		"definition" : "a French abbot",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 452,
+		"lemma" : "abbess",
+		"definition" : "the superior of a group of nuns",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 453,
+		"lemma" : "abbey",
+		"definition" : "a monastery ruled by an abbot",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 453,
+		"lemma" : "abbey",
+		"definition" : "a convent ruled by an abbess",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 453,
+		"lemma" : "abbey",
+		"definition" : "a church associated with a monastery or convent",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 454,
+		"lemma" : "abbot",
+		"definition" : "the superior of an abbey of monks",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 456,
+		"lemma" : "abbreviate",
+		"definition" : "shorten",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 456,
+		"lemma" : "abbreviate",
+		"definition" : "reduce in scope while retaining essential elements",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 457,
+		"lemma" : "abbreviated",
+		"definition" : "(of clothing) very short",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 457,
+		"lemma" : "abbreviated",
+		"definition" : "cut short in duration",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 458,
+		"lemma" : "abbreviation",
+		"definition" : "shortening something by omitting parts of it",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 458,
+		"lemma" : "abbreviation",
+		"definition" : "a shortened form of a word or phrase",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 459,
+		"lemma" : "abbreviator",
+		"definition" : "one who shortens or abridges or condenses a written work",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 462,
+		"lemma" : "abcoulomb",
+		"definition" : "a unit of electrical charge equal to 10 coulombs",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 465,
+		"lemma" : "abdicable",
+		"definition" : "capable of being discarded or renounced or relinquished",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 466,
+		"lemma" : "abdicate",
+		"definition" : "give up, such as power, as of monarchs and emperors, or duties and obligations",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 467,
+		"lemma" : "abdication",
+		"definition" : "the act of abdicating",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 467,
+		"lemma" : "abdication",
+		"definition" : "a formal resignation and renunciation of powers",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 468,
+		"lemma" : "abdicator",
+		"definition" : "one who formally relinquishes an office or responsibility",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 469,
+		"lemma" : "abdomen",
+		"definition" : "the region of the body of a vertebrate between the thorax and the pelvis",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 469,
+		"lemma" : "abdomen",
+		"definition" : "the cavity containing the major viscera, in mammals it is separated from the thorax by the diaphragm",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 470,
+		"lemma" : "abdominal",
+		"definition" : "the muscles of the abdomen",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 470,
+		"lemma" : "abdominal",
+		"definition" : "of or relating to or near the abdomen",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 482,
+		"lemma" : "abdominocentesis",
+		"definition" : "centesis of the belly to remove fluid for diagnosis",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 483,
+		"lemma" : "abdominoplasty",
+		"definition" : "cosmetic surgery of the abdomen to remove wrinkles and tighten the skin over the stomach",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 484,
+		"lemma" : "abdominous",
+		"definition" : "having a large belly",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 485,
+		"lemma" : "abdominousness",
+		"definition" : "the bodily property of a protruding belly",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 486,
+		"lemma" : "abdominovesical",
+		"definition" : "of or relating to the abdomen and the urinary bladder",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 487,
+		"lemma" : "abduce",
+		"definition" : "advance evidence for",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 488,
+		"lemma" : "abducens",
+		"definition" : "a small motor nerve supplying the lateral rectus muscle of the eye",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 491,
+		"lemma" : "abducent",
+		"definition" : "a small motor nerve supplying the lateral rectus muscle of the eye",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 491,
+		"lemma" : "abducent",
+		"definition" : "especially of muscles, drawing away from the midline of the body or from an adjacent part",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 493,
+		"lemma" : "abduct",
+		"definition" : "pull away from the body",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 493,
+		"lemma" : "abduct",
+		"definition" : "take away to an undisclosed location against their will and usually in order to extract a ransom",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 494,
+		"lemma" : "abducting",
+		"definition" : "especially of muscles, drawing away from the midline of the body or from an adjacent part",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 495,
+		"lemma" : "abduction",
+		"definition" : "(physiology) moving of a body part away from the central axis of the body",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 495,
+		"lemma" : "abduction",
+		"definition" : "the criminal act of capturing and carrying away by force a family member, if a man's wife is abducted it is a crime against the family relationship and against the wife",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 496,
+		"lemma" : "abductor",
+		"definition" : "a muscle that draws a body part away from the median line",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 496,
+		"lemma" : "abductor",
+		"definition" : "someone who unlawfully seizes and detains a victim (usually for ransom)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 498,
+		"lemma" : "abeam",
+		"definition" : "at right angles to the length of a ship or airplane",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 499,
+		"lemma" : "abecedarian",
+		"definition" : "a novice learning the rudiments of some subject",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 499,
+		"lemma" : "abecedarian",
+		"definition" : "alphabetically arranged (as for beginning readers)",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 500,
+		"lemma" : "abecedarius",
+		"definition" : "a poem having lines beginning with letters of the alphabet in regular order",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 501,
+		"lemma" : "abed",
+		"definition" : "in bed",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 506,
+		"lemma" : "abele",
+		"definition" : "a poplar that is widely cultivated in the United States, has white bark and leaves with whitish undersurfaces",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 507,
+		"lemma" : "abelia",
+		"definition" : "any of various deciduous or evergreen ornamental shrubs of the genus Abelia having opposite simple leaves and cymes of small white or pink or purplish flowers, Asia and Mexico",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 512,
+		"lemma" : "abelmosk",
+		"definition" : "bushy herb of tropical Asia grown for its yellow or pink to scarlet blooms that resemble the hibiscus",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 518,
+		"lemma" : "aberrance",
+		"definition" : "a state or condition markedly different from the norm",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 519,
+		"lemma" : "aberrancy",
+		"definition" : "a state or condition markedly different from the norm",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 520,
+		"lemma" : "aberrant",
+		"definition" : "one whose behavior departs substantially from the norm of a group",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 520,
+		"lemma" : "aberrant",
+		"definition" : "markedly different from an accepted norm",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 521,
+		"lemma" : "aberrate",
+		"definition" : "diverge or deviate from the straight path, produce aberration",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 521,
+		"lemma" : "aberrate",
+		"definition" : "diverge from the expected",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 522,
+		"lemma" : "aberration",
+		"definition" : "an optical phenomenon resulting from the failure of a lens or mirror to produce a good image",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 522,
+		"lemma" : "aberration",
+		"definition" : "a disorder in one's mental state",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 522,
+		"lemma" : "aberration",
+		"definition" : "a state or condition markedly different from the norm",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 523,
+		"lemma" : "abet",
+		"definition" : "assist or encourage, usually in some wrongdoing",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 524,
+		"lemma" : "abetalipoproteinemia",
+		"definition" : "a rare inherited disorder of fat metabolism, characterized by severe deficiency of beta-lipoproteins and abnormal red blood cells (acanthocytes) and abnormally low cholesterol levels",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 525,
+		"lemma" : "abetment",
+		"definition" : "the verbal act of urging on",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 526,
+		"lemma" : "abettal",
+		"definition" : "the verbal act of urging on",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 527,
+		"lemma" : "abetter",
+		"definition" : "one who helps or encourages or incites another",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 528,
+		"lemma" : "abettor",
+		"definition" : "one who helps or encourages or incites another",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 529,
+		"lemma" : "abeyance",
+		"definition" : "temporary cessation or suspension",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 530,
+		"lemma" : "abeyant",
+		"definition" : "inactive but capable of becoming active",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 531,
+		"lemma" : "abfarad",
+		"definition" : "a capacitance unit equal to one billion farads",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 532,
+		"lemma" : "abhenry",
+		"definition" : "a unit of inductance equal to one billionth of a henry",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 533,
+		"lemma" : "abhor",
+		"definition" : "find repugnant",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 534,
+		"lemma" : "abhorrence",
+		"definition" : "hate coupled with disgust",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 535,
+		"lemma" : "abhorrent",
+		"definition" : "offensive to the mind",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 536,
+		"lemma" : "abhorrer",
+		"definition" : "a signer of a 1679 address to Charles II in which those who petitioned for the reconvening of parliament were condemned and abhorred",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 537,
+		"lemma" : "abidance",
+		"definition" : "the act of abiding (enduring without yielding)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 537,
+		"lemma" : "abidance",
+		"definition" : "the act of dwelling in a place",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 537,
+		"lemma" : "abidance",
+		"definition" : "acting according to certain accepted standards",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 538,
+		"lemma" : "abide",
+		"definition" : "put up with something or somebody unpleasant",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 538,
+		"lemma" : "abide",
+		"definition" : "dwell",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 540,
+		"lemma" : "abiding",
+		"definition" : "lasting a long time",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 542,
+		"lemma" : "abience",
+		"definition" : "(psychology) an urge to withdraw or avoid a situation or an object",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 543,
+		"lemma" : "abient",
+		"definition" : "characterized by avoidance or withdrawal",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 557,
+		"lemma" : "ability",
+		"definition" : "the quality of being able to perform, a quality that permits or facilitates achievement or accomplishment",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 557,
+		"lemma" : "ability",
+		"definition" : "possession of the qualities (especially mental qualities) required to do something or get something done",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 558,
+		"lemma" : "abiogenesis",
+		"definition" : "a hypothetical organic phenomenon by which living organisms are created from nonliving matter",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 559,
+		"lemma" : "abiogenetic",
+		"definition" : "originating by abiogenesis",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 560,
+		"lemma" : "abiogenist",
+		"definition" : "a believer in abiogenesis",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 561,
+		"lemma" : "abiotrophy",
+		"definition" : "a loss of vitality and a degeneration of cells and tissues not due to any apparent injury",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 562,
+		"lemma" : "abject",
+		"definition" : "showing humiliation or submissiveness",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 562,
+		"lemma" : "abject",
+		"definition" : "of the most contemptible kind",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 562,
+		"lemma" : "abject",
+		"definition" : "most unfortunate or miserable",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 562,
+		"lemma" : "abject",
+		"definition" : "showing utter resignation or hopelessness",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 563,
+		"lemma" : "abjection",
+		"definition" : "a low or downcast state",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 564,
+		"lemma" : "abjectly",
+		"definition" : "in a hopeless resigned manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 565,
+		"lemma" : "abjuration",
+		"definition" : "a disavowal or taking back of a previous assertion",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 566,
+		"lemma" : "abjure",
+		"definition" : "formally reject or disavow a formerly held belief, usually under pressure",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 567,
+		"lemma" : "abjurer",
+		"definition" : "a person who abjures",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 573,
+		"lemma" : "ablactate",
+		"definition" : "gradually deprive (infants and young mammals) of mother's milk",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 574,
+		"lemma" : "ablactation",
+		"definition" : "the act of substituting other food for the mother's milk in the diet of a child or young mammal",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 574,
+		"lemma" : "ablactation",
+		"definition" : "the cessation of lactation",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 575,
+		"lemma" : "ablate",
+		"definition" : "remove an organ or bodily structure",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 575,
+		"lemma" : "ablate",
+		"definition" : "wear away through erosion or vaporization",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 576,
+		"lemma" : "ablated",
+		"definition" : "made smaller or less by melting or erosion or vaporization",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 577,
+		"lemma" : "ablation",
+		"definition" : "surgical removal of a body part or tissue",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 577,
+		"lemma" : "ablation",
+		"definition" : "the erosive process that reduces the size of glaciers",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 578,
+		"lemma" : "ablative",
+		"definition" : "the case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 578,
+		"lemma" : "ablative",
+		"definition" : "tending to ablate, i.e. to be removed or vaporized at very high temperature",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 578,
+		"lemma" : "ablative",
+		"definition" : "relating to the ablative case",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 581,
+		"lemma" : "ablaut",
+		"definition" : "a vowel whose quality or length is changed to indicate linguistic distinctions (such as sing sang sung song)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 582,
+		"lemma" : "ablaze",
+		"definition" : "lighted with red light as if with flames",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 582,
+		"lemma" : "ablaze",
+		"definition" : "resembling flame in brilliance or color",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 582,
+		"lemma" : "ablaze",
+		"definition" : "lighted up by or as by fire or flame",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 582,
+		"lemma" : "ablaze",
+		"definition" : "keenly excited (especially sexually) or indicating excitement",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 583,
+		"lemma" : "able",
+		"definition" : "(usually followed by `to') having the necessary means or skill or know-how or authority to do something",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 583,
+		"lemma" : "able",
+		"definition" : "having inherent physical or mental ability or capacity",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 583,
+		"lemma" : "able",
+		"definition" : "have the skills and qualifications to do things well",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 583,
+		"lemma" : "able",
+		"definition" : "having a strong healthy body",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 585,
+		"lemma" : "able-bodied",
+		"definition" : "having a strong healthy body",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 587,
+		"lemma" : "able-bodiedism",
+		"definition" : "discrimination in favor of the able-bodied",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 588,
+		"lemma" : "able-bodism",
+		"definition" : "discrimination in favor of the able-bodied",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 589,
+		"lemma" : "ableism",
+		"definition" : "discrimination in favor of the able-bodied",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 590,
+		"lemma" : "ablepharia",
+		"definition" : "a congenital absence of eyelids (partial or complete)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 591,
+		"lemma" : "ablism",
+		"definition" : "discrimination in favor of the able-bodied",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 592,
+		"lemma" : "abloom",
+		"definition" : "bursting into flower",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 594,
+		"lemma" : "ablution",
+		"definition" : "the ritual washing of a priest's hands or of sacred vessels",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 595,
+		"lemma" : "ablutionary",
+		"definition" : "cleansing the body by washing, especially ritual washing of e.g. hands",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 596,
+		"lemma" : "ably",
+		"definition" : "with competence, in a competent capable manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 599,
+		"lemma" : "abnegate",
+		"definition" : "deny or renounce",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 599,
+		"lemma" : "abnegate",
+		"definition" : "surrender (power or a position)",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 599,
+		"lemma" : "abnegate",
+		"definition" : "deny oneself (something), restrain, especially from indulging in some pleasure",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 600,
+		"lemma" : "abnegation",
+		"definition" : "renunciation of your own interests in favor of the interests of others",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 600,
+		"lemma" : "abnegation",
+		"definition" : "the denial and rejection of a doctrine or belief",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 601,
+		"lemma" : "abnegator",
+		"definition" : "one who gives up or relinquishes or renounces something",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 603,
+		"lemma" : "abnormal",
+		"definition" : "much greater than the normal",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 603,
+		"lemma" : "abnormal",
+		"definition" : "not normal, not typical or usual or regular or conforming to a norm",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 603,
+		"lemma" : "abnormal",
+		"definition" : "departing from the normal in e.g. intelligence and development",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 605,
+		"lemma" : "abnormalcy",
+		"definition" : "an abnormal physical condition resulting from defective genes or developmental deficiencies",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 606,
+		"lemma" : "abnormality",
+		"definition" : "behavior that breaches the rule or etiquette or custom or morality",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 606,
+		"lemma" : "abnormality",
+		"definition" : "marked strangeness as a consequence of being abnormal",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 606,
+		"lemma" : "abnormality",
+		"definition" : "retardation sufficient to fall outside the normal range of intelligence",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 606,
+		"lemma" : "abnormality",
+		"definition" : "an abnormal physical condition resulting from defective genes or developmental deficiencies",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 607,
+		"lemma" : "abnormally",
+		"definition" : "in an abnormal manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 612,
+		"lemma" : "aboard",
+		"definition" : "on first or second or third base",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 612,
+		"lemma" : "aboard",
+		"definition" : "on a ship, train, plane or other vehicle",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 612,
+		"lemma" : "aboard",
+		"definition" : "part of a group",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 612,
+		"lemma" : "aboard",
+		"definition" : "side by side",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 613,
+		"lemma" : "abocclusion",
+		"definition" : "the condition in which the upper teeth do not touch the lower teeth when biting",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 614,
+		"lemma" : "abode",
+		"definition" : "housing that someone is living in",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 614,
+		"lemma" : "abode",
+		"definition" : "any address at which you dwell more than temporarily",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 615,
+		"lemma" : "abohm",
+		"definition" : "a unit of resistance equal to a billionth of an ohm",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 616,
+		"lemma" : "abolish",
+		"definition" : "do away with",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 617,
+		"lemma" : "abolishable",
+		"definition" : "capable of being abolished",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 618,
+		"lemma" : "abolishment",
+		"definition" : "the act of abolishing a system or practice or institution (especially abolishing slavery)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 619,
+		"lemma" : "abolition",
+		"definition" : "the act of abolishing a system or practice or institution (especially abolishing slavery)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 620,
+		"lemma" : "abolitionary",
+		"definition" : "relating to or favoring abolition, especially abolition of slavery",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 621,
+		"lemma" : "abolitionism",
+		"definition" : "the doctrine that calls for the abolition of slavery",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 622,
+		"lemma" : "abolitionist",
+		"definition" : "a reformer who favors abolishing slavery",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 623,
+		"lemma" : "abomasal",
+		"definition" : "relating to the abomasum (the fourth compartment of the stomach of ruminants)",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 624,
+		"lemma" : "abomasum",
+		"definition" : "the fourth compartment of the stomach of a ruminant, the one where digestion takes place",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 625,
+		"lemma" : "abominable",
+		"definition" : "exceptionally bad or displeasing",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 625,
+		"lemma" : "abominable",
+		"definition" : "unequivocally detestable",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 627,
+		"lemma" : "abominably",
+		"definition" : "in a terrible manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 627,
+		"lemma" : "abominably",
+		"definition" : "in an offensive and hateful manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 628,
+		"lemma" : "abominate",
+		"definition" : "find repugnant",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 629,
+		"lemma" : "abomination",
+		"definition" : "an action that is vicious or vile, an action that arouses disgust or abhorrence",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 629,
+		"lemma" : "abomination",
+		"definition" : "hate coupled with disgust",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 629,
+		"lemma" : "abomination",
+		"definition" : "a person who is loathsome or disgusting",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 630,
+		"lemma" : "abominator",
+		"definition" : "one who hates or loathes",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 632,
+		"lemma" : "aborad",
+		"definition" : "away from the mouth or oral region",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 633,
+		"lemma" : "aboral",
+		"definition" : "opposite to or away from the mouth",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 634,
+		"lemma" : "aboriginal",
+		"definition" : "an indigenous person who was born in a particular place",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 634,
+		"lemma" : "aboriginal",
+		"definition" : "having existed from the beginning, in an earliest or original stage or state",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 634,
+		"lemma" : "aboriginal",
+		"definition" : "characteristic of or relating to people inhabiting a region from the beginning",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 636,
+		"lemma" : "aborigine",
+		"definition" : "an indigenous person who was born in a particular place",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 637,
+		"lemma" : "abort",
+		"definition" : "the act of terminating a project or procedure before it is completed",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 637,
+		"lemma" : "abort",
+		"definition" : "terminate a pregnancy by undergoing an abortion",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 637,
+		"lemma" : "abort",
+		"definition" : "cease development, die, and be aborted",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 637,
+		"lemma" : "abort",
+		"definition" : "terminate before completion",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 638,
+		"lemma" : "aborticide",
+		"definition" : "the act of destroying a fetus",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 638,
+		"lemma" : "aborticide",
+		"definition" : "a drug (or other chemical agent) that causes abortion",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 639,
+		"lemma" : "abortifacient",
+		"definition" : "a drug (or other chemical agent) that causes abortion",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 639,
+		"lemma" : "abortifacient",
+		"definition" : "causing abortion",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 640,
+		"lemma" : "abortion",
+		"definition" : "termination of pregnancy",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 640,
+		"lemma" : "abortion",
+		"definition" : "failure of a plan",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 643,
+		"lemma" : "abortionist",
+		"definition" : "a person (who should be a doctor) who terminates pregnancies",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 644,
+		"lemma" : "abortive",
+		"definition" : "failing to accomplish an intended result",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 645,
+		"lemma" : "abortively",
+		"definition" : "in an unfruitful manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 646,
+		"lemma" : "abortus",
+		"definition" : "a human fetus whose weight is less than 0.5 kilogram when removed or expelled from the mother's body",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 647,
+		"lemma" : "aboulia",
+		"definition" : "a loss of will power",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 648,
+		"lemma" : "aboulic",
+		"definition" : "suffering from abulia, showing abnormal inability to act or make decisions",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 649,
+		"lemma" : "abound",
+		"definition" : "be abundant or plentiful, exist in large quantities",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 649,
+		"lemma" : "abound",
+		"definition" : "be in a state of movement or action",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 651,
+		"lemma" : "abounding",
+		"definition" : "existing in abundance",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 652,
+		"lemma" : "about",
+		"definition" : "on the move",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 652,
+		"lemma" : "about",
+		"definition" : "(of quantities) imprecise but fairly close to correct",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 652,
+		"lemma" : "about",
+		"definition" : "in the area or vicinity",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 652,
+		"lemma" : "about",
+		"definition" : "all around or on all sides",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 652,
+		"lemma" : "about",
+		"definition" : "in or to a reversed position or direction",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 652,
+		"lemma" : "about",
+		"definition" : "used of movement to or among many different places or in no particular direction",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 652,
+		"lemma" : "about",
+		"definition" : "(of actions or states) slightly short of or not quite accomplished, all but",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 652,
+		"lemma" : "about",
+		"definition" : "in rotation or succession",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 654,
+		"lemma" : "about-face",
+		"definition" : "a major change in attitude or principle or point of view",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 654,
+		"lemma" : "about-face",
+		"definition" : "act of pivoting 180 degrees, especially in a military formation",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 654,
+		"lemma" : "about-face",
+		"definition" : "change one's mind and assume the opposite viewpoint",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 654,
+		"lemma" : "about-face",
+		"definition" : "turn, usually 180 degrees",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 655,
+		"lemma" : "above",
+		"definition" : "an earlier section of a written text",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 655,
+		"lemma" : "above",
+		"definition" : "appearing earlier in the same text",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 655,
+		"lemma" : "above",
+		"definition" : "(in writing) at an earlier place",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 655,
+		"lemma" : "above",
+		"definition" : "in or to a place that is higher",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 657,
+		"lemma" : "above-mentioned",
+		"definition" : "mentioned or named earlier in the same text",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 658,
+		"lemma" : "above-named",
+		"definition" : "mentioned or named earlier in the same text",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 659,
+		"lemma" : "aboveboard",
+		"definition" : "without concealment or deception, honest",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 659,
+		"lemma" : "aboveboard",
+		"definition" : "in an honest manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 660,
+		"lemma" : "aboveground",
+		"definition" : "on or above the surface of the ground",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 661,
+		"lemma" : "abracadabra",
+		"definition" : "gibberish and nonsense",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 662,
+		"lemma" : "abrachia",
+		"definition" : "the condition of having no arms",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 663,
+		"lemma" : "abradant",
+		"definition" : "a tool or machine used for wearing down or smoothing or polishing",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 663,
+		"lemma" : "abradant",
+		"definition" : "a substance that abrades or wears down",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 664,
+		"lemma" : "abrade",
+		"definition" : "rub hard or scrub",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 664,
+		"lemma" : "abrade",
+		"definition" : "wear away",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 665,
+		"lemma" : "abrader",
+		"definition" : "a tool or machine used for wearing down or smoothing or polishing",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 673,
+		"lemma" : "abranchial",
+		"definition" : "having no gills",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 674,
+		"lemma" : "abranchiate",
+		"definition" : "having no gills",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 675,
+		"lemma" : "abranchious",
+		"definition" : "having no gills",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 676,
+		"lemma" : "abrase",
+		"definition" : "wear away",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 677,
+		"lemma" : "abrasion",
+		"definition" : "the wearing down of rock particles by friction due to water or wind or ice",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 677,
+		"lemma" : "abrasion",
+		"definition" : "erosion by friction",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 677,
+		"lemma" : "abrasion",
+		"definition" : "an abraded area where the skin is torn or worn off",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 678,
+		"lemma" : "abrasive",
+		"definition" : "a substance that abrades or wears down",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 678,
+		"lemma" : "abrasive",
+		"definition" : "sharply disagreeable, rigorous",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 678,
+		"lemma" : "abrasive",
+		"definition" : "causing abrasion",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 680,
+		"lemma" : "abrasiveness",
+		"definition" : "the quality of being sharply disagreeable",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 680,
+		"lemma" : "abrasiveness",
+		"definition" : "the roughness of a substance that causes abrasions",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 681,
+		"lemma" : "abreact",
+		"definition" : "discharge bad feelings or tension through verbalization",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 682,
+		"lemma" : "abreaction",
+		"definition" : "(psychoanalysis) purging of emotional tensions",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 683,
+		"lemma" : "abreast",
+		"definition" : "being up to particular standard or level especially in being up to date in knowledge",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 683,
+		"lemma" : "abreast",
+		"definition" : "alongside each other, facing in the same direction",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 684,
+		"lemma" : "abridge",
+		"definition" : "lessen, diminish, or curtail",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 684,
+		"lemma" : "abridge",
+		"definition" : "reduce in scope while retaining essential elements",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 685,
+		"lemma" : "abridged",
+		"definition" : "(used of texts) shortened by condensing or rewriting",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 686,
+		"lemma" : "abridgement",
+		"definition" : "a shortened version of a written work",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 687,
+		"lemma" : "abridger",
+		"definition" : "one who shortens or abridges or condenses a written work",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 688,
+		"lemma" : "abridgment",
+		"definition" : "a shortened version of a written work",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 689,
+		"lemma" : "abroach",
+		"definition" : "of a cask or barrel",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 690,
+		"lemma" : "abroad",
+		"definition" : "in a foreign country",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 690,
+		"lemma" : "abroad",
+		"definition" : "to or in a foreign country",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 690,
+		"lemma" : "abroad",
+		"definition" : "in a place across an ocean",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 690,
+		"lemma" : "abroad",
+		"definition" : "far away from home or one's usual surroundings",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 692,
+		"lemma" : "abrocome",
+		"definition" : "ratlike rodent with soft fur and large ears of the Andes",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 693,
+		"lemma" : "abrogate",
+		"definition" : "revoke formally",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 694,
+		"lemma" : "abrogation",
+		"definition" : "the act of abrogating, an official or legal cancellation",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 695,
+		"lemma" : "abrogator",
+		"definition" : "an authority or official empowered to abolish or annul or repeal",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 703,
+		"lemma" : "abrupt",
+		"definition" : "surprisingly and unceremoniously brusque in manner",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 703,
+		"lemma" : "abrupt",
+		"definition" : "exceedingly sudden and unexpected",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 703,
+		"lemma" : "abrupt",
+		"definition" : "extremely steep",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 703,
+		"lemma" : "abrupt",
+		"definition" : "marked by sudden changes in subject and sharp transitions",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 705,
+		"lemma" : "abruption",
+		"definition" : "an instance of sudden interruption",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 706,
+		"lemma" : "abruptly",
+		"definition" : "quickly and without warning",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 707,
+		"lemma" : "abruptly-pinnate",
+		"definition" : "(of a leaf shape) pinnate with a pair of leaflets at the apex",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 709,
+		"lemma" : "abruptness",
+		"definition" : "an abrupt discourteous manner",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 709,
+		"lemma" : "abruptness",
+		"definition" : "the quality of happening with headlong haste or without warning",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 709,
+		"lemma" : "abruptness",
+		"definition" : "the property possessed by a slope that is very steep",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 713,
+		"lemma" : "abscess",
+		"definition" : "symptom consisting of a localized collection of pus surrounded by inflamed tissue",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 714,
+		"lemma" : "abscessed",
+		"definition" : "infected and filled with pus",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 716,
+		"lemma" : "abscise",
+		"definition" : "remove or separate by abscission",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 716,
+		"lemma" : "abscise",
+		"definition" : "shed flowers and leaves and fruit following formation of a scar tissue",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 717,
+		"lemma" : "abscissa",
+		"definition" : "the value of a coordinate on the horizontal axis",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 718,
+		"lemma" : "abscission",
+		"definition" : "the act of cutting something off",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 718,
+		"lemma" : "abscission",
+		"definition" : "shedding of flowers and leaves and fruit following formation of scar tissue in a plant",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 719,
+		"lemma" : "abscond",
+		"definition" : "run away, usually includes taking something or somebody along",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 720,
+		"lemma" : "absconder",
+		"definition" : "a fugitive who runs away and hides to avoid arrest or prosecution",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 721,
+		"lemma" : "abscondment",
+		"definition" : "the act of running away secretly (as to avoid arrest)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 722,
+		"lemma" : "abseil",
+		"definition" : "(mountaineering) a descent of a vertical cliff or wall made by using a doubled rope that is fixed to a higher point and wrapped around the body",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 722,
+		"lemma" : "abseil",
+		"definition" : "descend by means of a rappel",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 723,
+		"lemma" : "abseiler",
+		"definition" : "a person who descends down a nearly vertical face by using a doubled rope that is wrapped around the body and attached to some high point",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 724,
+		"lemma" : "absence",
+		"definition" : "failure to be present",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 724,
+		"lemma" : "absence",
+		"definition" : "the state of being absent",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 724,
+		"lemma" : "absence",
+		"definition" : "the occurrence of an abrupt, transient loss or impairment of consciousness (which is not subsequently remembered), sometimes with light twitching, fluttering eyelids, etc., common in petit mal epilepsy",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 724,
+		"lemma" : "absence",
+		"definition" : "the time interval during which something or somebody is away",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 727,
+		"lemma" : "absent",
+		"definition" : "go away or leave",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 727,
+		"lemma" : "absent",
+		"definition" : "lost in thought, showing preoccupation",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 727,
+		"lemma" : "absent",
+		"definition" : "nonexistent",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 727,
+		"lemma" : "absent",
+		"definition" : "not being in a specified place",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 728,
+		"lemma" : "absentee",
+		"definition" : "one that is absent or not in residence",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 731,
+		"lemma" : "absenteeism",
+		"definition" : "habitual absence from work",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 732,
+		"lemma" : "absently",
+		"definition" : "in an absentminded or preoccupied manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 733,
+		"lemma" : "absentminded",
+		"definition" : "lost in thought, showing preoccupation",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 734,
+		"lemma" : "absentmindedly",
+		"definition" : "in an absentminded or preoccupied manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 735,
+		"lemma" : "absentmindedness",
+		"definition" : "preoccupation so great that the ordinary demands on attention are ignored",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 736,
+		"lemma" : "absinth",
+		"definition" : "strong green liqueur flavored with wormwood and anise",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 737,
+		"lemma" : "absinthe",
+		"definition" : "strong green liqueur flavored with wormwood and anise",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 737,
+		"lemma" : "absinthe",
+		"definition" : "aromatic herb of temperate Eurasia and North Africa having a bitter taste used in making the liqueur absinthe",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 739,
+		"lemma" : "absolute",
+		"definition" : "something that is conceived or that exists independently and not in relation to other things, something that does not depend on anything else and is beyond human control, something that is not relative",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 739,
+		"lemma" : "absolute",
+		"definition" : "perfect or complete or pure",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 739,
+		"lemma" : "absolute",
+		"definition" : "not capable of being violated or infringed",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 739,
+		"lemma" : "absolute",
+		"definition" : "complete and without restriction or qualification, sometimes used informally as intensifiers",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 739,
+		"lemma" : "absolute",
+		"definition" : "not limited by law",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 739,
+		"lemma" : "absolute",
+		"definition" : "expressing finality with no implication of possible change",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 753,
+		"lemma" : "absolutely",
+		"definition" : "totally and definitely, without question",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 753,
+		"lemma" : "absolutely",
+		"definition" : "completely and without qualification, used informally as intensifiers",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 754,
+		"lemma" : "absoluteness",
+		"definition" : "the quality of being absolute",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 754,
+		"lemma" : "absoluteness",
+		"definition" : "the quality of being complete or utter or extreme",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 755,
+		"lemma" : "absolution",
+		"definition" : "the act of absolving or remitting, formal redemption as pronounced by a priest in the sacrament of penance",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 755,
+		"lemma" : "absolution",
+		"definition" : "the condition of being formally forgiven by a priest in the sacrament of penance",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 756,
+		"lemma" : "absolutism",
+		"definition" : "the doctrine of an absolute being",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 756,
+		"lemma" : "absolutism",
+		"definition" : "the principle of complete and unrestricted power in government",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 756,
+		"lemma" : "absolutism",
+		"definition" : "a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 756,
+		"lemma" : "absolutism",
+		"definition" : "dominance through threat of punishment and violence",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 757,
+		"lemma" : "absolutist",
+		"definition" : "one who advocates absolutism",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 757,
+		"lemma" : "absolutist",
+		"definition" : "pertaining to the principle of totalitarianism",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 758,
+		"lemma" : "absolutistic",
+		"definition" : "pertaining to the principle of totalitarianism",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 759,
+		"lemma" : "absolve",
+		"definition" : "let off the hook",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 759,
+		"lemma" : "absolve",
+		"definition" : "grant remission of a sin to",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 760,
+		"lemma" : "absolved",
+		"definition" : "freed from any question of guilt",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 761,
+		"lemma" : "absolver",
+		"definition" : "someone who grants absolution",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 762,
+		"lemma" : "absolvitory",
+		"definition" : "providing absolution",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 763,
+		"lemma" : "absorb",
+		"definition" : "cause to become one with",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 763,
+		"lemma" : "absorb",
+		"definition" : "consume all of one's attention or time",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 763,
+		"lemma" : "absorb",
+		"definition" : "devote (oneself) fully to",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 763,
+		"lemma" : "absorb",
+		"definition" : "take up mentally",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 763,
+		"lemma" : "absorb",
+		"definition" : "assimilate or take in",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 763,
+		"lemma" : "absorb",
+		"definition" : "take in, also metaphorically",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 763,
+		"lemma" : "absorb",
+		"definition" : "become imbued",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 763,
+		"lemma" : "absorb",
+		"definition" : "take up, as of debts or payments",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 763,
+		"lemma" : "absorb",
+		"definition" : "suck or take up or in",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 764,
+		"lemma" : "absorbable",
+		"definition" : "capable of being absorbed or taken in through the pores of a surface",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 765,
+		"lemma" : "absorbance",
+		"definition" : "(physics) a measure of the extent to which a substance transmits light or other electromagnetic radiation",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 766,
+		"lemma" : "absorbate",
+		"definition" : "a material that has been or is capable of being absorbed",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 767,
+		"lemma" : "absorbed",
+		"definition" : "giving or marked by complete attention to",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 767,
+		"lemma" : "absorbed",
+		"definition" : "retained without reflection",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 768,
+		"lemma" : "absorbefacient",
+		"definition" : "inducing or promoting absorption",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 769,
+		"lemma" : "absorbency",
+		"definition" : "the property of being absorbent",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 770,
+		"lemma" : "absorbent",
+		"definition" : "a material having capacity or tendency to absorb another substance",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 770,
+		"lemma" : "absorbent",
+		"definition" : "having power or capacity or tendency to absorb or soak up something (liquids or energy etc.)",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 773,
+		"lemma" : "absorber",
+		"definition" : "(physics) material in a nuclear reactor that absorbs radiation",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 774,
+		"lemma" : "absorbing",
+		"definition" : "capable of arousing and holding the attention",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 775,
+		"lemma" : "absorptance",
+		"definition" : "a measure of the rate of decrease in the intensity of electromagnetic radiation (as light) as it passes through a given substance, the fraction of incident radiant energy absorbed per unit mass or thickness of an absorber",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 776,
+		"lemma" : "absorption",
+		"definition" : "the mental state of being preoccupied by something",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 776,
+		"lemma" : "absorption",
+		"definition" : "complete attention, intense mental effort",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 776,
+		"lemma" : "absorption",
+		"definition" : "(chemistry) a process in which one substance permeates another, a fluid permeates or is dissolved by a liquid or solid",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 776,
+		"lemma" : "absorption",
+		"definition" : "(physics) the process in which incident radiated energy is retained without reflection or transmission on passing through a medium",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 776,
+		"lemma" : "absorption",
+		"definition" : "the process of absorbing nutrients into the body after digestion",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 776,
+		"lemma" : "absorption",
+		"definition" : "the social process of absorbing one cultural group into harmony with another",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 783,
+		"lemma" : "absorptive",
+		"definition" : "having power or capacity or tendency to absorb or soak up something (liquids or energy etc.)",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 784,
+		"lemma" : "absorptivity",
+		"definition" : "(physics) the property of a body that determines the fraction of the incident radiation or sound flux absorbed or absorbable by the body",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 785,
+		"lemma" : "absquatulate",
+		"definition" : "run away, usually includes taking something or somebody along",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 786,
+		"lemma" : "abstain",
+		"definition" : "choose not to consume",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 786,
+		"lemma" : "abstain",
+		"definition" : "refrain from voting",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 787,
+		"lemma" : "abstainer",
+		"definition" : "a person who refrains from drinking intoxicating beverages",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 787,
+		"lemma" : "abstainer",
+		"definition" : "someone who practices self denial as a spiritual discipline",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 788,
+		"lemma" : "abstemious",
+		"definition" : "sparing in consumption of especially food and drink",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 788,
+		"lemma" : "abstemious",
+		"definition" : "marked by temperance in indulgence",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 789,
+		"lemma" : "abstemiously",
+		"definition" : "in a sparing manner, without overindulgence",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 790,
+		"lemma" : "abstemiousness",
+		"definition" : "moderation in eating and drinking",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 790,
+		"lemma" : "abstemiousness",
+		"definition" : "restricted to bare necessities",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 791,
+		"lemma" : "abstention",
+		"definition" : "the trait of abstaining (especially from alcohol)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 792,
+		"lemma" : "abstentious",
+		"definition" : "self-restraining, not indulging an appetite especially for food or drink",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 793,
+		"lemma" : "abstinence",
+		"definition" : "act or practice of refraining from indulging an appetite",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 793,
+		"lemma" : "abstinence",
+		"definition" : "the trait of abstaining (especially from alcohol)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 794,
+		"lemma" : "abstinent",
+		"definition" : "a person who refrains from drinking intoxicating beverages",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 794,
+		"lemma" : "abstinent",
+		"definition" : "self-restraining, not indulging an appetite especially for food or drink",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 795,
+		"lemma" : "abstract",
+		"definition" : "a concept or idea not associated with any specific instance",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 795,
+		"lemma" : "abstract",
+		"definition" : "a sketchy summary of the main points of an argument or theory",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 795,
+		"lemma" : "abstract",
+		"definition" : "consider a concept without thinking of a specific example, consider abstractly or theoretically",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 795,
+		"lemma" : "abstract",
+		"definition" : "consider apart from a particular case or instance",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 795,
+		"lemma" : "abstract",
+		"definition" : "give an abstract (of)",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 795,
+		"lemma" : "abstract",
+		"definition" : "make off with belongings of others",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 795,
+		"lemma" : "abstract",
+		"definition" : "existing only in the mind, separated from embodiment",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 795,
+		"lemma" : "abstract",
+		"definition" : "dealing with a subject in the abstract without practical purpose or intention",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 795,
+		"lemma" : "abstract",
+		"definition" : "not representing or imitating external reality or the objects of nature",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 801,
+		"lemma" : "abstracted",
+		"definition" : "lost in thought, showing preoccupation",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 802,
+		"lemma" : "abstractedly",
+		"definition" : "in an absentminded or preoccupied manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 803,
+		"lemma" : "abstractedness",
+		"definition" : "preoccupation with something to the exclusion of all else",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 804,
+		"lemma" : "abstracter",
+		"definition" : "one who makes abstracts or summarizes information",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 805,
+		"lemma" : "abstraction",
+		"definition" : "a general concept formed by extracting common features from specific examples",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 805,
+		"lemma" : "abstraction",
+		"definition" : "the act of withdrawing or removing something",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 805,
+		"lemma" : "abstraction",
+		"definition" : "an abstract painting",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 805,
+		"lemma" : "abstraction",
+		"definition" : "preoccupation with something to the exclusion of all else",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 805,
+		"lemma" : "abstraction",
+		"definition" : "the process of formulating general concepts by abstracting common properties of instances",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 805,
+		"lemma" : "abstraction",
+		"definition" : "a concept or idea not associated with any specific instance",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 806,
+		"lemma" : "abstractionism",
+		"definition" : "an abstract genre of art, artistic content depends on internal form rather than pictorial representation",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 806,
+		"lemma" : "abstractionism",
+		"definition" : "a representation having no reference to concrete objects or specific examples",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 807,
+		"lemma" : "abstractionist",
+		"definition" : "a painter of abstract pictures",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 807,
+		"lemma" : "abstractionist",
+		"definition" : "not representing or imitating external reality or the objects of nature",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 808,
+		"lemma" : "abstractive",
+		"definition" : "of an abstracting nature or having the power of abstracting",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 809,
+		"lemma" : "abstractly",
+		"definition" : "in abstract terms",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 810,
+		"lemma" : "abstractness",
+		"definition" : "the quality of being considered apart from a specific instance or object",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 811,
+		"lemma" : "abstractor",
+		"definition" : "one who makes abstracts or summarizes information",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 812,
+		"lemma" : "abstruse",
+		"definition" : "difficult to penetrate, incomprehensible to one of ordinary understanding or knowledge",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 813,
+		"lemma" : "abstrusely",
+		"definition" : "in a manner difficult to understand",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 814,
+		"lemma" : "abstruseness",
+		"definition" : "the quality of being unclear or abstruse and hard to understand",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 814,
+		"lemma" : "abstruseness",
+		"definition" : "wisdom that is recondite and abstruse and profound",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 815,
+		"lemma" : "abstrusity",
+		"definition" : "wisdom that is recondite and abstruse and profound",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 816,
+		"lemma" : "absurd",
+		"definition" : "a situation in which life seems irrational and meaningless",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 816,
+		"lemma" : "absurd",
+		"definition" : "inconsistent with reason or logic or common sense",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 816,
+		"lemma" : "absurd",
+		"definition" : "so unreasonable as to invite derision",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 817,
+		"lemma" : "absurdity",
+		"definition" : "a ludicrous folly",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 817,
+		"lemma" : "absurdity",
+		"definition" : "a message whose content is at variance with reason",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 818,
+		"lemma" : "absurdly",
+		"definition" : "in an absurd manner or to an absurd degree",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 819,
+		"lemma" : "absurdness",
+		"definition" : "a message whose content is at variance with reason",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 831,
+		"lemma" : "abulia",
+		"definition" : "a loss of will power",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 832,
+		"lemma" : "abulic",
+		"definition" : "suffering from abulia, showing abnormal inability to act or make decisions",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 833,
+		"lemma" : "abundance",
+		"definition" : "the property of a more than adequate quantity or supply",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 833,
+		"lemma" : "abundance",
+		"definition" : "(chemistry) the ratio of the total mass of an element in the earth's crust to the total mass of the earth's crust, expressed as a percentage or in parts per million",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 833,
+		"lemma" : "abundance",
+		"definition" : "(physics) the ratio of the number of atoms of a specific isotope of an element to the total number of isotopes present",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 834,
+		"lemma" : "abundant",
+		"definition" : "present in great quantity",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 835,
+		"lemma" : "abundantly",
+		"definition" : "in an abundant manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 836,
+		"lemma" : "abuse",
+		"definition" : "cruel or inhumane treatment",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 836,
+		"lemma" : "abuse",
+		"definition" : "improper or excessive use",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 836,
+		"lemma" : "abuse",
+		"definition" : "a rude expression intended to offend or hurt",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 836,
+		"lemma" : "abuse",
+		"definition" : "change the inherent purpose or function of something",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 836,
+		"lemma" : "abuse",
+		"definition" : "use wrongly or improperly or excessively",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 836,
+		"lemma" : "abuse",
+		"definition" : "use foul or abusive language towards",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 836,
+		"lemma" : "abuse",
+		"definition" : "treat badly",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 837,
+		"lemma" : "abused",
+		"definition" : "subjected to cruel treatment",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 837,
+		"lemma" : "abused",
+		"definition" : "used improperly or excessively especially drugs",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 838,
+		"lemma" : "abuser",
+		"definition" : "someone who abuses",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 839,
+		"lemma" : "abusive",
+		"definition" : "characterized by physical or psychological maltreatment",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 839,
+		"lemma" : "abusive",
+		"definition" : "expressing offensive reproach",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 840,
+		"lemma" : "abusively",
+		"definition" : "in an abusive manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 841,
+		"lemma" : "abut",
+		"definition" : "lie adjacent to another or share a boundary",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 844,
+		"lemma" : "abutment",
+		"definition" : "a masonry support that touches and directly receives thrust or pressure of an arch or bridge",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 844,
+		"lemma" : "abutment",
+		"definition" : "point of contact between two objects or parts",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 846,
+		"lemma" : "abutter",
+		"definition" : "the owner of contiguous property",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 847,
+		"lemma" : "abuzz",
+		"definition" : "noisy like the sound of a bee",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 848,
+		"lemma" : "abvolt",
+		"definition" : "a unit of potential equal to one-hundred-millionth of a volt",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 849,
+		"lemma" : "abwatt",
+		"definition" : "a power unit equal to the power dissipated when 1 abampere flows across a potential difference of 1 abvolt (one ten-thousandth of a milliwatt)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 850,
+		"lemma" : "aby",
+		"definition" : "make amends for",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 854,
+		"lemma" : "abye",
+		"definition" : "make amends for",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 856,
+		"lemma" : "abysm",
+		"definition" : "a bottomless gulf or pit, any unfathomable (or apparently unfathomable) cavity or chasm or void extending below (often used figuratively)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 857,
+		"lemma" : "abysmal",
+		"definition" : "resembling an abyss in depth, so deep as to be unmeasurable",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 857,
+		"lemma" : "abysmal",
+		"definition" : "very great, limitless",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 858,
+		"lemma" : "abysmally",
+		"definition" : "in a terrible manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 859,
+		"lemma" : "abyss",
+		"definition" : "a bottomless gulf or pit, any unfathomable (or apparently unfathomable) cavity or chasm or void extending below (often used figuratively)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 860,
+		"lemma" : "abyssal",
+		"definition" : "resembling an abyss in depth, so deep as to be unmeasurable",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 860,
+		"lemma" : "abyssal",
+		"definition" : "relating to ocean depths from 2000 to 5000 meters",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 867,
+		"lemma" : "acacia",
+		"definition" : "any of various spiny trees or shrubs of the genus Acacia",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 876,
+		"lemma" : "academe",
+		"definition" : "the academic world",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 877,
+		"lemma" : "academia",
+		"definition" : "the academic world",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 878,
+		"lemma" : "academic",
+		"definition" : "an educator who works at a college or university",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 878,
+		"lemma" : "academic",
+		"definition" : "hypothetical or theoretical and not expected to produce an immediate or practical result",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 878,
+		"lemma" : "academic",
+		"definition" : "marked by a narrow focus on or display of learning especially its trivial aspects",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 878,
+		"lemma" : "academic",
+		"definition" : "associated with academia or an academy",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 892,
+		"lemma" : "academically",
+		"definition" : "in regard to academic matters",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 893,
+		"lemma" : "academician",
+		"definition" : "an educator who works at a college or university",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 893,
+		"lemma" : "academician",
+		"definition" : "a scholar who is skilled in academic disputation",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 893,
+		"lemma" : "academician",
+		"definition" : "someone elected to honorary membership in an academy",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 894,
+		"lemma" : "academicianship",
+		"definition" : "the position of member of an honorary academy",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 895,
+		"lemma" : "academicism",
+		"definition" : "orthodoxy of a scholastic variety",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 896,
+		"lemma" : "academism",
+		"definition" : "orthodoxy of a scholastic variety",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 897,
+		"lemma" : "academy",
+		"definition" : "a learned establishment for the advancement of knowledge",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 897,
+		"lemma" : "academy",
+		"definition" : "a school for special training",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 897,
+		"lemma" : "academy",
+		"definition" : "a secondary school (usually private)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 897,
+		"lemma" : "academy",
+		"definition" : "an institution for the advancement of art or science or literature",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 906,
+		"lemma" : "acantha",
+		"definition" : "any sharply pointed projection",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 908,
+		"lemma" : "acanthion",
+		"definition" : "the craniometric point at the anterior extremity of the intermaxillary suture",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 913,
+		"lemma" : "acanthocephalan",
+		"definition" : "any of various worms living parasitically in intestines of vertebrates having a retractile proboscis covered with many hooked spines",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 919,
+		"lemma" : "acanthocyte",
+		"definition" : "an abnormal red blood cell that has thorny projections of protoplasm",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 920,
+		"lemma" : "acanthocytosis",
+		"definition" : "the presence of acanthocytes in the blood stream (as in abetalipoproteinemia)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 921,
+		"lemma" : "acanthoid",
+		"definition" : "shaped like a spine or thorn",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 922,
+		"lemma" : "acantholysis",
+		"definition" : "a breakdown of a cell layer in the epidermis (as in pemphigus)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 923,
+		"lemma" : "acanthoma",
+		"definition" : "a neoplasm originating in the epidermis",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 926,
+		"lemma" : "acanthopterygian",
+		"definition" : "a teleost fish with fins that are supported by sharp inflexible rays",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 930,
+		"lemma" : "acanthosis",
+		"definition" : "an abnormal but benign thickening of the prickle-cell layer of the skin (as in psoriasis)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 932,
+		"lemma" : "acanthotic",
+		"definition" : "of or relating to or having acanthosis",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 933,
+		"lemma" : "acanthous",
+		"definition" : "shaped like a spine or thorn",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 937,
+		"lemma" : "acanthus",
+		"definition" : "any plant of the genus Acanthus having large spiny leaves and spikes or white or purplish flowers, native to Mediterranean region but widely cultivated",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 940,
+		"lemma" : "acapnia",
+		"definition" : "a state in which the level of carbon dioxide in the blood is lower than normal, can result from deep or rapid breathing",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 941,
+		"lemma" : "acapnial",
+		"definition" : "relating to or demonstrating acapnia",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 942,
+		"lemma" : "acapnic",
+		"definition" : "relating to or demonstrating acapnia",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 943,
+		"lemma" : "acapnotic",
+		"definition" : "relating to or demonstrating acapnia",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 947,
+		"lemma" : "acaracide",
+		"definition" : "a chemical agent used to kill mites",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 948,
+		"lemma" : "acardia",
+		"definition" : "congenital absence of the heart (as in the development of some monsters)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 949,
+		"lemma" : "acariasis",
+		"definition" : "infestation with itch mites",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 950,
+		"lemma" : "acaricide",
+		"definition" : "a chemical agent used to kill mites",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 951,
+		"lemma" : "acarid",
+		"definition" : "very small free-living arachnid that is parasitic on animals or plants, related to ticks",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 953,
+		"lemma" : "acaridiasis",
+		"definition" : "infestation with itch mites",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 955,
+		"lemma" : "acarine",
+		"definition" : "mite or tick",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 956,
+		"lemma" : "acariosis",
+		"definition" : "infestation with itch mites",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 958,
+		"lemma" : "acarophobia",
+		"definition" : "a morbid fear of small insects and mites and worms",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 959,
+		"lemma" : "acarpellous",
+		"definition" : "having no carpels",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 960,
+		"lemma" : "acarpelous",
+		"definition" : "having no carpels",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 961,
+		"lemma" : "acarpous",
+		"definition" : "producing no fruit",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 962,
+		"lemma" : "acarus",
+		"definition" : "any of several mites of the order Acarina",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 963,
+		"lemma" : "acaryote",
+		"definition" : "a cell without a nucleus (as an erythrocyte)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 964,
+		"lemma" : "acatalectic",
+		"definition" : "(prosody) a line of verse that has the full number of syllables",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 964,
+		"lemma" : "acatalectic",
+		"definition" : "(verse) metrically complete, especially having the full number of syllables in the final metrical foot",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 965,
+		"lemma" : "acataphasia",
+		"definition" : "a disorder in which a lesion to the central nervous system leaves you unable to formulate a statement or to express yourself in an organized manner",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 966,
+		"lemma" : "acathexia",
+		"definition" : "an inability to retain bodily secretions",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 967,
+		"lemma" : "acathexis",
+		"definition" : "(psychoanalysis) a lack of cathexis, a condition in which significant objects or memories arouse no emotion in an individual",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 968,
+		"lemma" : "acaudal",
+		"definition" : "lacking a tail or taillike appendage",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 969,
+		"lemma" : "acaudate",
+		"definition" : "lacking a tail or taillike appendage",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 970,
+		"lemma" : "acaulescent",
+		"definition" : "(of plants) having no apparent stem above ground",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 973,
+		"lemma" : "accede",
+		"definition" : "to agree or express agreement",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 973,
+		"lemma" : "accede",
+		"definition" : "yield to another's wish or opinion",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 973,
+		"lemma" : "accede",
+		"definition" : "take on duties or office",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 974,
+		"lemma" : "accelerando",
+		"definition" : "a gradually increasing tempo of music",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 974,
+		"lemma" : "accelerando",
+		"definition" : "(music) gradually increasing in tempo",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 974,
+		"lemma" : "accelerando",
+		"definition" : "with increasing speed",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 975,
+		"lemma" : "accelerate",
+		"definition" : "move faster",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 975,
+		"lemma" : "accelerate",
+		"definition" : "cause to move faster",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 976,
+		"lemma" : "accelerated",
+		"definition" : "speeded up, as of an academic course",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 977,
+		"lemma" : "acceleration",
+		"definition" : "the act of accelerating, increasing the speed",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 977,
+		"lemma" : "acceleration",
+		"definition" : "an increase in rate of change",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 977,
+		"lemma" : "acceleration",
+		"definition" : "(physics) a rate of increase of velocity",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 979,
+		"lemma" : "accelerative",
+		"definition" : "tending to increase velocity",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 980,
+		"lemma" : "accelerator",
+		"definition" : "a valve that regulates the supply of fuel to the engine",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 980,
+		"lemma" : "accelerator",
+		"definition" : "a scientific instrument that increases the kinetic energy of charged particles",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 980,
+		"lemma" : "accelerator",
+		"definition" : "a pedal that controls the throttle valve",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 980,
+		"lemma" : "accelerator",
+		"definition" : "(chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 983,
+		"lemma" : "acceleratory",
+		"definition" : "tending to increase velocity",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 984,
+		"lemma" : "accelerometer",
+		"definition" : "an instrument for measuring the acceleration of aircraft or rockets",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 985,
+		"lemma" : "accent",
+		"definition" : "a diacritical mark used to indicate stress or placed above a vowel to indicate a special pronunciation",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 985,
+		"lemma" : "accent",
+		"definition" : "the relative prominence of a syllable or musical note (especially with regard to stress or pitch)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 985,
+		"lemma" : "accent",
+		"definition" : "distinctive manner of oral expression",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 985,
+		"lemma" : "accent",
+		"definition" : "the usage or vocabulary that is characteristic of a specific group of people",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 985,
+		"lemma" : "accent",
+		"definition" : "special importance or significance",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 985,
+		"lemma" : "accent",
+		"definition" : "put stress on, utter with an accent",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 985,
+		"lemma" : "accent",
+		"definition" : "to stress, single out as important",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 987,
+		"lemma" : "accented",
+		"definition" : "bearing a stress or accent",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 987,
+		"lemma" : "accented",
+		"definition" : "(used of syllables) bearing the principle stress, usually accompanied by a change in pitch",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 988,
+		"lemma" : "accenting",
+		"definition" : "the act of giving special importance or significance to something",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 989,
+		"lemma" : "accentor",
+		"definition" : "small sparrow-like songbird of mountainous regions of Eurasia",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 990,
+		"lemma" : "accentual",
+		"definition" : "(of verse) having a metric system based on stress rather than syllables or quantity",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 990,
+		"lemma" : "accentual",
+		"definition" : "of or pertaining to accent or stress",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 992,
+		"lemma" : "accentuate",
+		"definition" : "put stress on, utter with an accent",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 992,
+		"lemma" : "accentuate",
+		"definition" : "to stress, single out as important",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 993,
+		"lemma" : "accentuation",
+		"definition" : "the act of giving special importance or significance to something",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 993,
+		"lemma" : "accentuation",
+		"definition" : "the use or application of an accent, the relative prominence of syllables in a phrase or utterance",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 994,
+		"lemma" : "accept",
+		"definition" : "tolerate or accommodate oneself to",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 994,
+		"lemma" : "accept",
+		"definition" : "consider or hold as true",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 994,
+		"lemma" : "accept",
+		"definition" : "be sexually responsive to, used of a female domesticated mammal",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 994,
+		"lemma" : "accept",
+		"definition" : "react favorably to, consider right and proper",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 994,
+		"lemma" : "accept",
+		"definition" : "give an affirmative reply to, respond favorably to",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 994,
+		"lemma" : "accept",
+		"definition" : "make use of or accept for some purpose",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 994,
+		"lemma" : "accept",
+		"definition" : "receive (a report) officially, as from a committee",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 994,
+		"lemma" : "accept",
+		"definition" : "receive willingly something given or offered",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 994,
+		"lemma" : "accept",
+		"definition" : "admit into a group or community",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 994,
+		"lemma" : "accept",
+		"definition" : "take on as one's own the expenses or debts of another person",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 994,
+		"lemma" : "accept",
+		"definition" : "be designed to hold or take",
+		"pos" : "v"
+	},
+	{
+		"wordid" : 995,
+		"lemma" : "acceptability",
+		"definition" : "satisfactoriness by virtue of conforming to approved standards",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 996,
+		"lemma" : "acceptable",
+		"definition" : "worthy of acceptance or satisfactory",
+		"pos" : "a"
+	},
+	{
+		"wordid" : 996,
+		"lemma" : "acceptable",
+		"definition" : "adequate for the purpose",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 996,
+		"lemma" : "acceptable",
+		"definition" : "meeting requirements",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 996,
+		"lemma" : "acceptable",
+		"definition" : "judged to be in conformity with approved usage",
+		"pos" : "s"
+	},
+	{
+		"wordid" : 997,
+		"lemma" : "acceptableness",
+		"definition" : "satisfactoriness by virtue of conforming to approved standards",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 998,
+		"lemma" : "acceptably",
+		"definition" : "in an acceptable (but not outstanding) manner",
+		"pos" : "r"
+	},
+	{
+		"wordid" : 999,
+		"lemma" : "acceptance",
+		"definition" : "the act of taking something that is offered",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 999,
+		"lemma" : "acceptance",
+		"definition" : "the act of accepting with approval, favorable reception",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 999,
+		"lemma" : "acceptance",
+		"definition" : "a disposition to tolerate or accept people or situations",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 999,
+		"lemma" : "acceptance",
+		"definition" : "the mental attitude that something is believable and should be accepted as true",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 999,
+		"lemma" : "acceptance",
+		"definition" : "(contract law) words signifying consent to the terms of an offer (thereby creating a contract)",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 999,
+		"lemma" : "acceptance",
+		"definition" : "banking: a time draft drawn on and accepted by a bank",
+		"pos" : "n"
+	},
+	{
+		"wordid" : 999,
+		"lemma" : "acceptance",
+		"definition" : "the state of being acceptable and accepted",
+		"pos" : "n"
+	}
+]

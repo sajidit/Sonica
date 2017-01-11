@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Sonica</string>
+    <string name="app_string">Sonica11111</string>
+    <string name="exit">EXIT</string>
+    <string name="about">about</string>
+    <string name="reset">reset</string>
+    <string name="add">add</string>
+
+
+    <string-array name="titles">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment2">Hello blank fragment222.....</string>
+    <string name="hello_blank_fragment">Hello blank fragment111.....</string>
+    <string name="title_activity_vacabulary">VacabularyActivity</string>
+
+
+</resources>
