@@ -11,14 +11,13 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <!--
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        -->
 
 
         <!--
@@ -32,13 +31,12 @@
         -->
         <activity android:name=".MultipleChoiceActivity">
         </activity>
-        <activity
-            android:name=".VocabularyActivity">
-            <intent-filter>
+        <activity android:name=".VocabularyActivity">
+            <!--<intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            </intent-filter>-->
         </activity>
     </application>
 

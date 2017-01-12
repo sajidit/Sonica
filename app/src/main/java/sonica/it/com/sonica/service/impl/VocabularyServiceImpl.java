@@ -37,7 +37,5 @@ public class VocabularyServiceImpl implements VocabularyService {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
-
 }
